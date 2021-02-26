@@ -1,0 +1,5 @@
+## Ignore PyCharm stuff, of course
+.idea/
+
+## Ignore .DS_Store
+.DS_Store
